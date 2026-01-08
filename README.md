@@ -2,6 +2,7 @@
 
 **CivicFix** is a next-generation "Smart City" complaint registration platform. It empowers citizens to report infrastructure issues (potholes, streetlights, garbage) and uses **Generative AI** to analyze, route, and prioritize them for the government.
 
+Note:Please just consider the CIVICFIX_MAIN folder because it is the main folder and ignore all other. we had to push multiple folder due to some issues in git and api key.
 ---
 
 ## 🚀 Key Features
